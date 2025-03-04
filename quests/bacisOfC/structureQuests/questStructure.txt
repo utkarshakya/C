@@ -1,0 +1,10 @@
+>> STRUCTURES QUSETS
+
+qusetStructure01.c = Basics of Structures.
+qusetStructure02.c = Using typedef in Structures.
+qusetStructure03.c = Array Of Structures.
+qusetStructure04.c = A record contains name of cricketer, his age, number of test matches that he has played and the average runs that he has scored in each test match. Create an array of structure to hold records of n such cricketer and then write a program to read these records.
+qusetStructure05.c = Create a structure 'data' that contains three members namely data, month and year. Create 2 structure variables with different dates and now compare the two. If the dates are equal then display message as "Equal" otherwise "Unequal".
+qusetStructure06.c = Nesting and Passing Structures To Functions.
+qusetStructure07.c = Using Pointer in Structures.
+qusetStructure08.c = Structure VS Union.
