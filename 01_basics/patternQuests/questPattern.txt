@@ -1,0 +1,106 @@
+>> PATTERN PRINTING QUESTS
+
+questPattern01.c = Print the pattern given below for n no. of inputs, below given for n = 4.
+*
+* *
+* * *
+* * * *
+questPattern02.c = Print the pattern given below for n no. of inputs, below given for n = 4.
+* * * *
+* * *
+* *
+*
+questPattern03.c = Print the pattern given below for n no. of inputs, below given for n = 4.
+1
+1 3
+1 3 5
+1 3 5 7
+questPattern04.c = Print the pattern given below for n no. of inputs, below given for n = 4.
+A B C D
+A B C D
+A B C D
+A B C D
+questPattern05.c = Print the pattern given below for n no. of inputs, below given for n = 4.
+1
+A B
+1 2 3
+A B C D
+questPattern06.c = Print the pattern given below for n no. of inputs, below given for n = 5.
+    *    
+    *    
+* * * * *
+    *    
+    *    
+questPattern07.c = Print the pattern given below by taking the values of Rows and Columns as input, below given for rows = 4 and cols = 6.
+* * * * * *
+*         *
+*         *
+* * * * * *
+questPattern08.c = Print the pattern given below for n no. of inputs, below given for n = 5.
+*       *
+  *   *  
+    *   
+  *   *  
+*       *
+questPattern09.c = Print the pattern given below for n no. of inputs, below given for n = 4.(Known as Floyd's Triangle)
+1
+2 3
+4 5 6
+7 8 9 10
+questPattern10.c = Print the pattern given below for n no. of inputs, below given for n = 4.
+1
+0 1
+1 0 1
+0 1 0 1
+questPattern11.c = Print the pattern given below for n no. of inputs, below given for n = 4.
+      *
+    * *
+  * * *
+* * * *
+questPattern12.c = Print the pattern given below for n no. of inputs, below given for n = 4.
+      * * * *
+    * * * *  
+  * * * *    
+* * * *      
+questPattern13.c = Print the pattern given below for n no. of inputs, below given for n = 4.
+      *
+    * * *
+  * * * * *
+* * * * * * *
+questPattern14.c = Print the pattern given below for n no. of inputs, below given for n = 4.
+      1
+    1 2 1
+  1 2 3 2 1
+1 2 3 4 3 2 1
+questPattern15.c = Print the pattern given below for n no. of inputs, below given for n = 7.
+      *
+    * * *
+  * * * * *
+* * * * * * *
+  * * * * *
+    * * *
+      *
+questPattern16.c = Print the pattern given below for n no. of inputs, below given for n = 4.
+* * * * * * *
+* * *   * * *
+* *       * *
+*           *
+questPattern17.c = Print the pattern given below for n no. of inputs, below given for n = 4.
+1 2 3 4 5 6 7
+1 2 3   5 6 7
+1 2       6 7
+1           7
+questPattern18.c = Print the pattern given below for n no. of inputs, below given for n = 4. (OP)
+4 4 4 4 4 4 4
+4 3 3 3 3 3 4
+4 3 2 2 2 3 4
+4 3 2 1 2 3 4
+4 3 2 2 2 3 4
+4 3 3 3 3 3 4
+4 4 4 4 4 4 4
+questPattern19.c = Print the pattern given below for n no. of inputs, below given for n = 5. (OP) {This is also know as Spiral Pattern}
+1 2 3 4 5
+16 17 18 19 6
+15 24 25 20 7
+14 23 22 21 8
+13 12 11 10 9

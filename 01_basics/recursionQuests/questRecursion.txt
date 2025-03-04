@@ -1,0 +1,20 @@
+>> RECURSION QUESTS (Some don't use recursion)
+
+questRecursion01.c = WAP to make a function to calculate the combination of given value of n and r.
+questRecursion02.c = WAP to print pascal triangle using functions.
+questRecursion03.c = WAP to print no. of element of fibonacci series for n terms.
+questRecursion04.c = WAP to print no. from 1 to n in increasing order.
+questRecursion05.c = WAP to print no. from 1 to n in decreasing order.
+questRecursion06.c = WAP to print sum from 1 to n.
+questRecursion07.c = WAP to calculate the a^b (a raise to the power b).
+questRecursion08.c = WAP to find the nth fibonacci number.
+questRecursion09.c = WAP for stair case (Max 2 Jumps).
+questRecursion10.c = WAP for stair case (Max 3 Jumps).
+questRecursion11.c = WAP to calculate a raised to the power b.
+questRecursion12.c = WAP for Maze Path (also known as Grid) (Condition : One Step at a time, can only move Right and Down).
+questRecursion13.c = This question is basically used to clear the concept of recursion (This can be very clear by trees).
+questRecursion14.c = WAP to print zig-zag (As if Input=1 Output=111, Input=2 Output=2112112, Input=3 Output=321112111232111211123), this is the simple application of the PreInPost concept.
+questRecursion15.c = WAP for tower of hanoi.
+questRecursion16.c = Recursion With Arrays.
+questRecursion17.c = WAP to find the sum of values of an array of integers.
+questRecursion18.c =  

@@ -1,0 +1,18 @@
+>> GENERAL QUESTS
+
+questGeneral01.c = Take radius of sphere as input and print volume of sphere.
+questGeneral02.c = Take a integer input and print half of it.
+questGeneral03.c = Take a float input and print the fractional part of the real number.
+questGeneral04.c = Take two integer input and find the remainder without using modulus operator.
+questGeneral05.c = Take length and breadth of rectangle and print weather area or perimeter is greater.
+questGeneral06.c = Take values of x and y coordinates and print where the point lies in x-y plane.
+questGeneral07.c = Make a program to calculate simple interest by taking required inputs.
+questGeneral08.c = Take selling and cost price as input and print the calculated profit or loss.
+questGeneral09.c = WAP to print number of digits of a number.
+questGeneral10.c = WAP to print the sum of digits of a number.
+questGeneral11.c = WAP to print the reverse of a number.
+questGeneral12.c = WAP to print the some of this series (1-2+3-4+5-6...up to n terms).
+questGeneral13.c = WAP to print the factorial of a number.
+questGeneral14.c = WAP to print the factorial of first n number.
+questGeneral15.c = WAP to print the fibonacci series up to n terms.
+questGeneral16.c = WAP to print the weather a number is armstrong or not.

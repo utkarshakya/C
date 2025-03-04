@@ -1,0 +1,19 @@
+>> ARRAYS QUESTS
+
+questArray01.c = Given an array of integers, change the value of all odd indexed elements to its second multiple and increment all even indexed value by 10.
+questArray02.c = Find the difference between the sum of elements at even indices to the sum of elements at odd indices.
+questArray03.c = Find the total number of pairs in the Array whose sum is equal to the given value x.
+questArray04.c = Find the total number of triplets in the Array whose sum is equal to the given value x.
+questArray05.c = Find the second largest element of a given Array.
+questArray06.c = WAP to copy the content of one array into another in reverse order.
+questArray07.c = WAP to reverse the array without using any extra array.
+questArray08.c = WAP to store Roll No. and Marks of n students side by side in a matrix.
+questArray09.c = WAP to add two matrices.
+questArray10.c = WAP to add all the elements of a n*m matrix
+questArray11.c = WAP to print the row number of a matrix that have the maximum sum.
+questArray12.c = WAP to print the transpose of a matrix.
+questArray13.c = WAP to print the transpose of a matrix after storing it in another matrix.
+questArray14.c = WAP to change the matrix to its transpose form. (For Square Matrix Only)
+questArray15.c = WAP to rotate the matrix clockwise 90 degree. (For Square Matrix Only)
+questArray16.c = WAP to print the multiplication of two matrices. **
+questArray17.c = WAP to for spiral printing. **
