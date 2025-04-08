@@ -25,7 +25,8 @@ void printList(Node *head)
 Node *createNode(int data)
 {
     Node *newNode = (Node *)malloc(sizeof(Node));
-    if (newNode == NULL){
+    if (newNode == NULL)
+    {
         printf("Memory allocation failed!\n");
         exit(1);
     }
@@ -34,11 +35,25 @@ Node *createNode(int data)
     return newNode;
 }
 
+// Function To Creating A Linked List
+void createList(int length)
+{
+    Node *head = createNode(length);
+    Node *current = head;
+    for (int i = 11; i <= 20; i++)
+    {
+        current->next = createNode(i);
+        current = current->next;
+    }
+}
+
 // Function To Free The Memory
-void deleteList(Node *head){
+void deleteList(Node *head)
+{
     Node *current = head;
     Node *nextNode = current;
-    while(current != NULL){
+    while (current != NULL)
+    {
         nextNode = current->next;
         free(current);
         current = nextNode;
@@ -48,17 +63,6 @@ void deleteList(Node *head){
 
 int main()
 {
-    // Creating A Linked List
-    Node *head = createNode(10);
-    Node *current = head;
-    for (int i = 11; i <= 20; i++)
-    {
-        current->next = createNode(i);
-        current = current->next;
-    }
-
-    printList(head);
-
-    deleteList(head);
+    
     return 0;
 }
